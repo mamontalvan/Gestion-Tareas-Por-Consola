@@ -2,8 +2,6 @@
 
 Aplicación para gestionar tareas/actividades a través de la consola interactiva. Aquí se empleó Enquirer.
 
-# Enquirer
-
 
 ## ❯ Instalamos
 
