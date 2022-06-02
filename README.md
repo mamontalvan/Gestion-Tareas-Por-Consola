@@ -1,7 +1,19 @@
 # Descripción:
 
-Aplicación para gestionar tareas/actividades a través de la consola interactiva. #NodeJS #Enquirer
+Aplicación para gestionar tareas/actividades a través de la consola interactiva. Aquí se empleó Enquirer.
 
+# Enquirer
+
+
+## ❯ Instalamos
+
+$ npm install
+
+## ❯ Ejecutamos
+
+$ node app
+
+![split](https://github.com/terkelg/prompts/raw/master/media/split.png)
 
 ```
 ============================
@@ -16,16 +28,4 @@ Aplicación para gestionar tareas/actividades a través de la consola interactiv
   5. Completar tarea(s) 
   6. Borrar una tarea 
   0. Salir 
-
 ```
-
-![split](https://github.com/terkelg/prompts/raw/master/media/split.png)
-
-## ❯ Instalamos
-
-$ npm install
-
-## ❯ Ejecutamos
-
-$ node app
-
