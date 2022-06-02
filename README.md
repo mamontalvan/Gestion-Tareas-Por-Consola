@@ -15,4 +15,4 @@ $ node app
 
 ![split](https://github.com/terkelg/prompts/raw/master/media/split.png)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/1218979/171750093-63c1fdd4-163b-47dc-b5e1-93fb6192dac4.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/1218979/171751123-f59e0cb2-5d14-4758-a076-15a4de12dd11.gif)
