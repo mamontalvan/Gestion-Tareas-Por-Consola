@@ -1,6 +1,7 @@
 # Descripción:
 
-Aplicación para gestionar tareas/actividades a través de la consola interactiva. Aquí se empleó Enquirer.
+Aplicación para gestionar tareas/actividades a través de la consola interactiva. La data generada se guarda en un archivo JSON.
+Dentro del proyecto se empleó Enquirer.
 
 
 ## ❯ Instalamos
