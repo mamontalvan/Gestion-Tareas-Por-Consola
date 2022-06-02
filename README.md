@@ -15,17 +15,4 @@ $ node app
 
 ![split](https://github.com/terkelg/prompts/raw/master/media/split.png)
 
-```
-============================
- Seleccione una opción 
-============================
-
-? Qué desea hacer? (Use arrow keys)
-❯ 1. Crear una tarea 
-  2. Listar tareas 
-  3. Listar tareas completadas 
-  4. Listar tareas pendientes 
-  5. Completar tarea(s) 
-  6. Borrar una tarea 
-  0. Salir 
-```
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/1218979/171750093-63c1fdd4-163b-47dc-b5e1-93fb6192dac4.gif)
